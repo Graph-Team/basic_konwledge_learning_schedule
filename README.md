@@ -1,13 +1,13 @@
 # 基础知识、论文、代码学习进度安排
 
-<img src="./images/xmind.png" width="96%" height="96%">
+<img src="./images/schedule.png" width="96%" height="96%">
 
 ## 学习任务
 
 🔥🔥🔥 **基础知识**  
-**[Course](https://arxiv.org/pdf/2306.13549.pdf)** | **[Book](./book)**
+**[Course](https://arxiv.org/pdf/2306.13549.pdf)** | **[Book](https://ustc-graph.yuque.com/lku4s3/gegcsw/imx46gahz6vsc4bh)**
 
-基础知识的学习包括两部分：网课和书籍。上述课程链接为 [李宏毅2021/2022春机器学习课程](https://www.bilibili.com/video/BV1Wv411h7kN/?spm_id_from=333.337.search-card.all.click)，书籍链接为本仓库中 [book](./book) 目录下整理的一些机器学习相关的电子版书籍。:sparkles:
+基础知识的学习包括两部分：网课和书籍。上述课程链接为 [李宏毅2021/2022春机器学习课程](https://www.bilibili.com/video/BV1Wv411h7kN/?spm_id_from=333.337.search-card.all.click)，书籍链接为一些机器学习相关的电子版书籍，存储在雨雀中。:sparkles:
 
 优先学习李宏毅机器学习课程和mlapp两本书籍。大家也可根据自身需要学习其他课程和书籍。
 
